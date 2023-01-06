@@ -106,6 +106,7 @@
     font-size: 20px;
     text-align: center;
     border: none;
+    outline: none;
     padding: 20px;
 }
 .scd-btn{
@@ -247,6 +248,7 @@
     background-color: #d9d9d9;
     border: none;
     border-radius: 3px 0 0 3px;
+    outline: none;
 }
 .email-sec input:nth-child(2){
     padding: 11px 28px;
